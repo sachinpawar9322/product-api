@@ -30,4 +30,4 @@ Solution should cover on the below segments:
 
 ## Class Diagram
 
-[Class Diagram] (https://github.com/sachinpawar9322/product-api/blob/master/resources/ProductAPI_ClassDIagram.png?raw=true)
+[Class Diagram](https://github.com/sachinpawar9322/product-api/blob/master/resources/ProductAPI_ClassDIagram.png?raw=true)
