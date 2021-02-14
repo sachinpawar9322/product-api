@@ -28,6 +28,5 @@ Solution should cover on the below segments:
     Architecture and data model
     No need to build any UI components REST/Event any protocol would do.
 
-### Class Diagram
 
 ![Class Diagram](https://github.com/sachinpawar9322/product-api/blob/master/resources/ProductAPI_ClassDIagram.png?raw=true)
